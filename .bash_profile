@@ -1,3 +1,6 @@
+# Path
+export PATH=${PATH}:~/Applications/mongodb/bin
+
 # Terminal Customize
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
