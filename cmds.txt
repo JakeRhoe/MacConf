@@ -5,3 +5,4 @@ passwd root
 sudo scutil --set HostName name-you-want
 
 
+spotlight - shorcut - finder - shft+cmd+space
